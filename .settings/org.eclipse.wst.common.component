@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="project1">
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/onlineshopping/src/main/java" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/shoppingbackend/src/main/java"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/shoppingbackend/src/test/java"/>
+        <wb-resource deploy-path="/" source-path="/appClientModule"/>
+        <property name="java-output-path" value="/project1/bin"/>
+        <property name="context-root" value="project1"/>
+    </wb-module>
+</project-modules>
